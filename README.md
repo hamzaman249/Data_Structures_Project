@@ -8,11 +8,11 @@
 
 ## Team Members
 
-| Name | Roll No.|
-|---|---|---|---|
-| Hamza Mansoor | 25F-0579 
-| Hamna Shehzad| 25F-0536 
-| Syed Ashal Haider | 25F-0543 
+| Name | Roll No. |
+|---|---|
+| Hamza Mansoor | 25F-0579 |
+| Hamna Shehzad | 25F-0536 |
+| Syed Ashal Haider | 25F-0543 |
 
 ---
 
